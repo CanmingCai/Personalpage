@@ -11,7 +11,7 @@ $(window).load(function() {
 		$(".portfolio_items").isotope({
 			itemSelector: '.single_item',
 			layoutMode: 'fitRows',
-			columnWidth: '.col-sm-3'
+			// columnWidth: '.col-sm-3'
 		});
 		
 		// isotope click function
